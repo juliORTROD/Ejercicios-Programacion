@@ -8,7 +8,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- *
+ * sddgghhhhg
  * @author juor7066
  */
 public class Exercici3_examenBucles {
